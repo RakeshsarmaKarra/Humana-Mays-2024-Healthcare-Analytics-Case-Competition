@@ -91,5 +91,8 @@ This project provides a data-driven approach to increasing Medicare Advantage me
 insights, and strategic outreach, healthcare providers can significantly improve STAR ratings and patient health outcomes.
 
 🔗 Contact & Credits:                                                                                                                                       
-Team Members: Rakeshsarma Karra, Chaitanya Krishna Kanth Vankadaru, Nirupama Valluru, Anulekha Chegoni  
-Email: **rakeshsarmakarra@gmail.com**
+Team Members: 
+1. Rakeshsarma Karra (**rakeshsarmakarra@gmail.com**)
+2. Chaitanya Krishna Kanth Vankadaru (**chaitanya.vankadaru@gmail.com**)
+3. Nirupama Valluru
+4. Anulekha Chegoni  
