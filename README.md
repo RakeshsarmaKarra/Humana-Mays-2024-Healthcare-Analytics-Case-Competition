@@ -1,4 +1,4 @@
-# 🏆 Humana - Mays 2024 Healthcare Analytics Case Competition
+![Humana](https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition/blob/main/Humana%20Image.jpg)
 # 🏥 Bridging the Preventive Care Gap: Predicting Unengaged Medicare Advantage Members
 
 ## Project Overview
