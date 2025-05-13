@@ -91,8 +91,9 @@ This project provides a data-driven approach to increasing Medicare Advantage me
 insights, and strategic outreach, healthcare providers can significantly improve STAR ratings and patient health outcomes.
 
 🔗 Contact & Credits:                                                                                                                                       
-Team Members: 
 1. Rakeshsarma Karra (**rakeshsarmakarra@gmail.com**)
 2. Chaitanya Krishna Kanth Vankadaru (**chaitanya.vankadaru@gmail.com**)
 3. Nirupama Valluru
 4. Anulekha Chegoni  
+
+![Image](https://github.com/RakeshsarmaKarra/Humana-Mays-2024-Healthcare-Analytics-Case-Competition/blob/main/Humana%20Presentation.jpg)
